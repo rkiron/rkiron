@@ -18,7 +18,7 @@ Basically I do 🕵️ detective stuff, helping in ethical investigation and rep
 ⭐️ As part-time developer and contribute in building stuff that actually makes the internet a safer place.
 
 
-🟢 My interests also being in cloud security and android pentesting.
+🟢 My interests also being in cloud security, building automated systems.
 
 
 ### ⚡️ Fun Facts:
