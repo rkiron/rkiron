@@ -3,7 +3,7 @@
 I'm Kiron, a <u>cybersecurity practioner</u> based in India.
 
 
-I focus on SOC Analyst roles with skills expanding to**🫆 Digital Forensics** and **🔍 Threat Intel*.
+I focus on SOC Analyst roles with skills expanding to **🫆 Digital Forensics** and *🔍 Threat Intel*.
 
 
 Basically I do 🕵️ detective stuff, helping in ethical investigation and reporting. 
